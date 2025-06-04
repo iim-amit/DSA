@@ -1,3 +1,5 @@
+// Strcutre of a Linked List , How we declare it initialise it
+
 #include<bits/stdc++.h>
 using namespace std;
 class Node{
